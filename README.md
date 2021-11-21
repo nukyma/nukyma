@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @nukyma
-- 👀 I’m interested in art,blockchain,web3
-- 🌱 I’m currently learning as much as I can about Blockchain tech, NFTs, Web3...
-- 💞️ I’m looking to collaborate on projects that works fro a better integration of women in tech world
-- 📫 How to reach me on twitter @nukyma 
+- 🎨 I'm an artist 🎹
+- 💻 I'm a software developer
+- 🧠 I’m interested and also learning about crypto, generative and programmable art, blockchain, web3
+- 👀 If you want to take a look at my work, yout can find it at [nuykma.art](https://www.nukyma.art)
+- 🐦 You reach me on [twitter](https://twitter.com/nukyma)
+
 
 <!---
 nukyma/nukyma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
