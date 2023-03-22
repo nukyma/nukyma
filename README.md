@@ -3,7 +3,7 @@
 - 🎨 I'm an artist 🎹
 - 🧠 I’m interested and also learning about crypto, blockchain, web3, smart cotracts, generative and programmable art...
 - 👀 If you want to take a look at my work, yout can find it at [nuykma.xyz](https://www.nukyma.xyz)
-- 🐦 You reach me on [Twitter](https://twitter.com/nukyma)
+- 🐦 You can reach me on [Twitter](https://twitter.com/nukyma)
 
 
 <!---
