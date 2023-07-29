@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @nukyma
-- 💻 I'm a software developer
+- 💻 I'm a software developer. DATA lover.
 - 🎨 I'm an artist 🎹
-- 🧠 I’m interested and also learning about crypto, blockchain, web3, smart cotracts, generative and programmable art...
+- 🧠 I keep learning about data and generative/programmable art...
 - 👀 If you want to take a look at my work, yout can find it at [nuykma.xyz](https://www.nukyma.xyz)
-- 🐦 You can reach me on [Twitter](https://twitter.com/nukyma)
 
 
 <!---
